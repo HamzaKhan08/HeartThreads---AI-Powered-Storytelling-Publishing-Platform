@@ -78,7 +78,7 @@ npm run dev
 
 ## SCREENSHOTs
 ### 🏠 Homepage
-![Homepage](assets/sample.png)
+![Homepage](./assets/sample.png)
 
 👨‍💻 Creator
 Built with ❤️ by Hamza Ayaz Khan
