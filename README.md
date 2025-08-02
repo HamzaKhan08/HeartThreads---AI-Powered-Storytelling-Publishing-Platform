@@ -76,8 +76,9 @@ touch .env
 # Start development server
 npm run dev
 
-🖼️ Screenshots
-(Include UI previews here once available)
+## SCREENSHOTs
+### 🏠 Homepage
+![Homepage](./assets/images/homepage.png)
 
 👨‍💻 Creator
 Built with ❤️ by Hamza Ayaz Khan
