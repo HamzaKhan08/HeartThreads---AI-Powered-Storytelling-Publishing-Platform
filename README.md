@@ -36,14 +36,9 @@ HeartThreads uses multiple AI models to provide robust story generation support:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/heartthreads.git
+Currently not allow to copy this repository 
 
-# Go to the project directory
-cd heartthreads
-
-# Install dependencies
-npm install
-
+# Project Folder Structure
 # heartthreads/
 ├── client/         # React frontend
 ├── server/         # Node.js/Express backend
@@ -58,7 +53,6 @@ touch .env
 
 🙌 Contributors
 Built with ❤️ by Hamza Ayaz Khan
-
 
 
 # Run the app
